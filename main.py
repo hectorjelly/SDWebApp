@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@hectorjelly 
-AssemblyAI-Examples
-/
-flask-gpu-app
-Public
-Fork your own copy of AssemblyAI-Examples/flask-gpu-app
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-flask-gpu-app/main.py /
-@ploeber
-ploeber initial commit
-Latest commit f70fda4 4 days ago
- History
- 1 contributor
-41 lines (29 sloc)  1.01 KB
 
 from flask_ngrok import run_with_ngrok
 from flask import Flask, render_template, request
