@@ -40,18 +40,3 @@ def generate_image():
 
 if __name__ == '__main__':
     app.run()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-flask-gpu-app/main.py at main · AssemblyAI-Examples/flask-gpu-app 
